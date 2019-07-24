@@ -1,4 +1,4 @@
-- This project has three .py classes
+- This project has four .py classes
     - node.py contains Node class to construct single node for single linked list
     - linkedlist.py contains SingleLinkedList class to build a linked list by appending elements at the end of the list
     - SingleLinkedList class also contains a function to traverse the linkedlist and convert it to an array
